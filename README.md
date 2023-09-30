@@ -5,7 +5,7 @@ Analysis of trading session 4
 <table>
     <tr>
         <td>
-            <a target="_blank" href="https://sharpness-b.github.io/FIN11-Assignment-1/github-pages/limit_order_books.html">
+            <a href="https://sharpness-b.github.io/FIN11-Assignment-1/github-pages/limit_order_books.html">
                 <p>The order book over time</p>
                 <img src="readme-images/plot (1).png" alt="Image 1">
             </a>
