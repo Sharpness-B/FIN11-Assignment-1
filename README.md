@@ -1,6 +1,6 @@
 # FIN11-Assignment-1
 
-Analysis of trading session 4
+Analysis of trading session 4; ctrl+'click' on the plots to open them full screen.
 
 <table>
     <tr>
